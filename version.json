@@ -1,9 +1,9 @@
 {
- "versionCode": 28,
- "versionName": "1.0.27",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.27/shici-1.0.27.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.27.apk",
- "sha256": "70403824253e64ef058cef6d6ca13251c501824d182a654dcd8e50e0d532a12c",
+ "versionCode": 29,
+ "versionName": "1.0.28",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.28/shici-1.0.28.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.28.apk",
+ "sha256": "41c77a8b0cf4c7298dd745ecd96f2eb9fafe77aa02002cc5134e62d0c153c9be",
  "size": 279376,
- "notes": "设置页说明改成「只有检查更新会联网」；1.0.26 起支持 App 内更新"
+ "notes": "更新检查改成双源取最高版本 + 时间戳防缓存"
 }
