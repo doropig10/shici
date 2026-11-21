@@ -1,9 +1,9 @@
 {
- "versionCode": 29,
- "versionName": "1.0.28",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.28/shici-1.0.28.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.28.apk",
- "sha256": "41c77a8b0cf4c7298dd745ecd96f2eb9fafe77aa02002cc5134e62d0c153c9be",
+ "versionCode": 30,
+ "versionName": "1.0.29",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.29/shici-1.0.29.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.29.apk",
+ "sha256": "53a2902cb252afd8cd99c4097a5ca38ef513a14fe48a112a73f7b782bfe4e806",
  "size": 279376,
- "notes": "更新检查改成双源取最高版本 + 时间戳防缓存"
+ "notes": "更新检查改走 Releases API（无缓存），静态文件仅作兜底"
 }
