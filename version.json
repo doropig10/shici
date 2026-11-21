@@ -1,9 +1,9 @@
 {
- "versionCode": 31,
- "versionName": "1.0.30",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.30/shici-1.0.30.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.30.apk",
- "sha256": "8da3c350fa8f0c62ab2341bede193a6c464f23882302a018f83c601e52fc73a1",
- "size": 279376,
- "notes": "检查更新改走 releases/latest/download（无缓存、无 API 限流），静态文件兜底"
+ "versionCode": 32,
+ "versionName": "1.0.31",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.31/shici-1.0.31.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.31.apk",
+ "sha256": "ed93744816e0ee450f21dc69b461b7fad9cbf07015aedaf045354b63abed877e",
+ "size": 283472,
+ "notes": "新增发音音色选择；默认自动挑质量最高的本地英文音色"
 }
