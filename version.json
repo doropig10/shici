@@ -1,9 +1,9 @@
 {
- "versionCode": 35,
- "versionName": "1.0.34",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.34/shici-1.0.34.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.34.apk",
- "sha256": "fc0ac010420ff36822ebc11f91f21118f89d8b724cc2a8c7e989acbfbfd01d3b",
- "size": 283472,
- "notes": "标记可写原因，并支持导出 CSV（单词/单元/课/标记/原因/释义）"
+ "versionCode": 36,
+ "versionName": "1.0.35",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.35/shici-1.0.35.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.35.apk",
+ "sha256": "01aff5ced5c0aa56a3561f7437d52bf2a4e3674475450cc85bfc9102a52de0cc",
+ "size": 430928,
+ "notes": "同步 39 篇讲义：新增 Unit 2/3/4/5/8 等 15 课，1388 → 2451 词"
 }
