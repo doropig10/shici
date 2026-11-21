@@ -1,9 +1,9 @@
 {
- "versionCode": 33,
- "versionName": "1.0.32",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.32/shici-1.0.32.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.32.apk",
- "sha256": "84c7a0797bc6bdc17c3e34422da5319ae8edb9fb2623a3ee03cfae21d603b303",
+ "versionCode": 34,
+ "versionName": "1.0.33",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.33/shici-1.0.33.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.33.apk",
+ "sha256": "a74d067bbb160d035558b92a1c973ef349a59f8c2d079bf6455b898cc2f3df34",
  "size": 283472,
- "notes": "发音音色：女声/男声 + 本地/需联网 友好标签"
+ "notes": "词库词条加「重点 / 待核对」标记，可按标记筛选"
 }
