@@ -1,8 +1,9 @@
 {
- "versionCode": 26,
- "versionName": "1.0.25",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.25/shici-1.0.25.apk",
- "sha256": "4bb5f3f71df564556c2d5c89688282031fd56bcfcfd6cae4602d238020c2a78b",
+ "versionCode": 27,
+ "versionName": "1.0.26",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.26/shici-1.0.26.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.26.apk",
+ "sha256": "9c5f66be1e8d582840e6e44397af0d6c22a21c9f88e5d002c27c05bd41d2b3a4",
  "size": 279376,
- "notes": "新增 App 内检查更新；词库 1388 词（24 篇讲义）"
+ "notes": "新增 App 内检查更新（GitHub + jsDelivr 双源）；词库 1388 词"
 }
