@@ -1,9 +1,9 @@
 {
- "versionCode": 27,
- "versionName": "1.0.26",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.26/shici-1.0.26.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.26.apk",
- "sha256": "9c5f66be1e8d582840e6e44397af0d6c22a21c9f88e5d002c27c05bd41d2b3a4",
+ "versionCode": 28,
+ "versionName": "1.0.27",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.27/shici-1.0.27.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.27.apk",
+ "sha256": "70403824253e64ef058cef6d6ca13251c501824d182a654dcd8e50e0d532a12c",
  "size": 279376,
- "notes": "新增 App 内检查更新（GitHub + jsDelivr 双源）；词库 1388 词"
+ "notes": "设置页说明改成「只有检查更新会联网」；1.0.26 起支持 App 内更新"
 }
