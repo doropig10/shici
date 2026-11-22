@@ -1,9 +1,9 @@
 {
- "versionCode": 37,
- "versionName": "1.0.36",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.36/shici-1.0.36.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.36.apk",
- "sha256": "998ff5799b86a779f7bd7e2a82ebb0f66dbc8897d761c4fbdf16c55ebbd55068",
- "size": 430928,
- "notes": "修掉 labo(u)r / catalog(ue) 重复 id；2451 词"
+ "versionCode": 38,
+ "versionName": "1.0.37",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.37/shici-1.0.37.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.37.apk",
+ "sha256": "63f5bef10b94d9f8bb9a11710722d41850a916bba01fd1cb9659c95111ea524e",
+ "size": 435024,
+ "notes": "同步讲义小改：2 条释义、44 条讲解块"
 }
