@@ -1,10 +1,10 @@
 {
- "versionCode": 41,
- "versionName": "1.0.40",
- "apk": "https://gitee.com/doro_pig/shici/raw/master/shici-1.0.40.apk",
- "apkFallback": "https://github.com/doropig10/shici/releases/download/v1.0.40/shici-1.0.40.apk",
- "apkMirror": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.40.apk",
- "sha256": "11b6cf0f31aafe2006416f68e5b198d0910d2cc1bf098510b6ded4b739e8b783",
- "size": 435024,
- "notes": "新增 Gitee 更新源（首选），GitHub + jsDelivr 兜底"
+ "versionCode": 42,
+ "versionName": "1.0.41",
+ "apk": "https://gitee.com/doro_pig/shici/raw/master/shici-1.0.41.apk",
+ "apkFallback": "https://github.com/doropig10/shici/releases/download/v1.0.41/shici-1.0.41.apk",
+ "apkMirror": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.41.apk",
+ "sha256": "881dc7265791aa85ab929659692866d4472d1dfb66f1f6f6fb7c3c390c2983c5",
+ "size": 492368,
+ "notes": "同步 44 篇讲义：新增 Unit 10（Lesson 1-1~4），2852 词"
 }
