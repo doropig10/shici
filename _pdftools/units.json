@@ -1,0 +1,92 @@
+[
+ {
+  "name": "Unit 1",
+  "first_word": "ambition",
+  "first_pos": null,
+  "start": 1,
+  "words_in_xlsx": 180,
+  "found": 176,
+  "end": 245
+ },
+ {
+  "name": "Unit 2",
+  "first_word": "ecology",
+  "first_pos": 246,
+  "start": 246,
+  "words_in_xlsx": 220,
+  "found": 214,
+  "end": 530
+ },
+ {
+  "name": "Unit 3",
+  "first_word": "attribute",
+  "first_pos": 542,
+  "start": 531,
+  "words_in_xlsx": 208,
+  "found": 204,
+  "end": 819
+ },
+ {
+  "name": "Unit 4",
+  "first_word": "scholar",
+  "first_pos": 820,
+  "start": 820,
+  "words_in_xlsx": 280,
+  "found": 274,
+  "end": 1197
+ },
+ {
+  "name": "Unit 5",
+  "first_word": "ascertain",
+  "first_pos": 1198,
+  "start": 1198,
+  "words_in_xlsx": 97,
+  "found": 89,
+  "end": 1535
+ },
+ {
+  "name": "Unit 6",
+  "first_word": "recipe",
+  "first_pos": 1536,
+  "start": 1536,
+  "words_in_xlsx": 252,
+  "found": 235,
+  "end": 1853
+ },
+ {
+  "name": "Unit 7",
+  "first_word": "adapt",
+  "first_pos": 1856,
+  "start": 1854,
+  "words_in_xlsx": 245,
+  "found": 232,
+  "end": 2209
+ },
+ {
+  "name": "Unit 8",
+  "first_word": "fold",
+  "first_pos": 2210,
+  "start": 2210,
+  "words_in_xlsx": 273,
+  "found": 263,
+  "end": 2549
+ },
+ {
+  "name": "Unit 9",
+  "first_word": "vulgar",
+  "first_pos": 2550,
+  "start": 2550,
+  "words_in_xlsx": 152,
+  "found": 144,
+  "end": 2872
+ },
+ {
+  "name": "Unit 10",
+  "first_word": "ashamed",
+  "first_pos": 2873,
+  "start": 2873,
+  "words_in_xlsx": 312,
+  "found": 291,
+  "end": 3267
+ }
+]

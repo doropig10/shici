@@ -1,0 +1,10 @@
+.tooling/
+tmp/
+build/
+output/
+preview/
+__pycache__/
+*.pyc
+_pdftools/ghrepo/
+_pdftools/gitee_repo/
+_pdftools/snapshots/

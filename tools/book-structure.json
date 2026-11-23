@@ -1,0 +1,1080 @@
+{
+  "units": [
+    {
+      "number": 1,
+      "pages": [
+        2,
+        6,
+        12,
+        18
+      ],
+      "section": "core"
+    },
+    {
+      "number": 2,
+      "pages": [
+        23,
+        32,
+        38,
+        42
+      ],
+      "section": "core"
+    },
+    {
+      "number": 3,
+      "pages": [
+        48,
+        55,
+        60,
+        68
+      ],
+      "section": "core"
+    },
+    {
+      "number": 4,
+      "pages": [
+        73,
+        79,
+        86,
+        93
+      ],
+      "section": "core"
+    },
+    {
+      "number": 5,
+      "pages": [
+        104,
+        111,
+        118,
+        125
+      ],
+      "section": "core"
+    },
+    {
+      "number": 6,
+      "pages": [
+        133,
+        144,
+        150,
+        156
+      ],
+      "section": "core"
+    },
+    {
+      "number": 7,
+      "pages": [
+        161,
+        169,
+        177,
+        184
+      ],
+      "section": "core"
+    },
+    {
+      "number": 8,
+      "pages": [
+        190,
+        198,
+        205,
+        213
+      ],
+      "section": "core"
+    },
+    {
+      "number": 9,
+      "pages": [
+        219,
+        226,
+        233,
+        240
+      ],
+      "section": "core"
+    },
+    {
+      "number": 10,
+      "pages": [
+        247,
+        257,
+        267,
+        276
+      ],
+      "section": "core"
+    },
+    {
+      "number": 11,
+      "pages": [
+        286,
+        290,
+        294,
+        298
+      ],
+      "section": "basic"
+    },
+    {
+      "number": 12,
+      "pages": [
+        302,
+        306,
+        310,
+        314
+      ],
+      "section": "basic"
+    },
+    {
+      "number": 13,
+      "pages": [
+        318,
+        322,
+        326,
+        330
+      ],
+      "section": "basic"
+    },
+    {
+      "number": 14,
+      "pages": [
+        334,
+        338
+      ],
+      "section": "basic"
+    }
+  ],
+  "groups": [
+    {
+      "page": 10,
+      "top": 0.1705,
+      "number": 1,
+      "title": "“雄心”相关"
+    },
+    {
+      "page": 11,
+      "top": 0.0767,
+      "number": 2,
+      "title": "“优秀的”相关"
+    },
+    {
+      "page": 13,
+      "top": 0.2854,
+      "number": 3,
+      "title": "ordinary相关"
+    },
+    {
+      "page": 14,
+      "top": 0.1205,
+      "number": 4,
+      "title": "sur/ce相关"
+    },
+    {
+      "page": 16,
+      "top": 0.0754,
+      "number": 5,
+      "title": "ce“走”相关"
+    },
+    {
+      "page": 17,
+      "top": 0.0758,
+      "number": 6,
+      "title": "ascend相关"
+    },
+    {
+      "page": 18,
+      "top": 0.695,
+      "number": 7,
+      "title": "gen(e)相关"
+    },
+    {
+      "page": 20,
+      "top": 0.1179,
+      "number": 8,
+      "title": "“吓唬”相关"
+    },
+    {
+      "page": 21,
+      "top": 0.4354,
+      "number": 9,
+      "title": "rise相关"
+    },
+    {
+      "page": 23,
+      "top": 0.6454,
+      "number": 10,
+      "title": "“举起”相关"
+    },
+    {
+      "page": 24,
+      "top": 0.715,
+      "number": 11,
+      "title": "“木头”相关"
+    },
+    {
+      "page": 26,
+      "top": 0.1217,
+      "number": 12,
+      "title": "“出现、淹没”相关"
+    },
+    {
+      "page": 27,
+      "top": 0.2307,
+      "number": 13,
+      "title": "re / er、阿姨相关"
+    },
+    {
+      "page": 29,
+      "top": 0.0788,
+      "number": 14,
+      "title": "for(e)相关"
+    },
+    {
+      "page": 31,
+      "top": 0.1783,
+      "number": 1,
+      "title": "“生态”相关"
+    },
+    {
+      "page": 33,
+      "top": 0.0786,
+      "number": 2,
+      "title": "“人类”相关"
+    },
+    {
+      "page": 34,
+      "top": 0.7516,
+      "number": 3,
+      "title": "“生物”相关"
+    },
+    {
+      "page": 36,
+      "top": 0.3553,
+      "number": 4,
+      "title": "“疾病”相关"
+    },
+    {
+      "page": 40,
+      "top": 0.1251,
+      "number": 5,
+      "title": "“水、土”相关"
+    },
+    {
+      "page": 41,
+      "top": 0.0768,
+      "number": 6,
+      "title": "re-相关"
+    },
+    {
+      "page": 43,
+      "top": 0.5715,
+      "number": 7,
+      "title": "“重要的”相关"
+    },
+    {
+      "page": 46,
+      "top": 0.1222,
+      "number": 8,
+      "title": "pot相关"
+    },
+    {
+      "page": 47,
+      "top": 0.2843,
+      "number": 9,
+      "title": "“混合”相关"
+    },
+    {
+      "page": 50,
+      "top": 0.1179,
+      "number": 10,
+      "title": "“政府机关”相关"
+    },
+    {
+      "page": 51,
+      "top": 0.7646,
+      "number": 11,
+      "title": "“职务”相关"
+    },
+    {
+      "page": 53,
+      "top": 0.0525,
+      "number": 12,
+      "title": "“统治”相关"
+    },
+    {
+      "page": 54,
+      "top": 0.7757,
+      "number": 1,
+      "title": "tribute相关"
+    },
+    {
+      "page": 55,
+      "top": 0.2867,
+      "number": 2,
+      "title": "mit相关（1）"
+    },
+    {
+      "page": 56,
+      "top": 0.1864,
+      "number": 3,
+      "title": "mit相关（2）"
+    },
+    {
+      "page": 58,
+      "top": 0.6803,
+      "number": 4,
+      "title": "tain相关"
+    },
+    {
+      "page": 61,
+      "top": 0.1254,
+      "number": 5,
+      "title": "“冒犯”相关"
+    },
+    {
+      "page": 62,
+      "top": 0.0796,
+      "number": 6,
+      "title": "“保护”相关"
+    },
+    {
+      "page": 66,
+      "top": 0.1263,
+      "number": 7,
+      "title": "pro/pre相关"
+    },
+    {
+      "page": 68,
+      "top": 0.0821,
+      "number": 8,
+      "title": "proficient相关"
+    },
+    {
+      "page": 70,
+      "top": 0.0775,
+      "number": 9,
+      "title": "fer相关"
+    },
+    {
+      "page": 72,
+      "top": 0.4217,
+      "number": 10,
+      "title": "duce相关"
+    },
+    {
+      "page": 74,
+      "top": 0.1246,
+      "number": 11,
+      "title": "ject相关"
+    },
+    {
+      "page": 75,
+      "top": 0.4737,
+      "number": 12,
+      "title": "vis(e)相关"
+    },
+    {
+      "page": 76,
+      "top": 0.5125,
+      "number": 13,
+      "title": "view / vise相关"
+    },
+    {
+      "page": 79,
+      "top": 0.1779,
+      "number": 1,
+      "title": "“学者”相关"
+    },
+    {
+      "page": 81,
+      "top": 0.0778,
+      "number": 2,
+      "title": "“学业”相关"
+    },
+    {
+      "page": 83,
+      "top": 0.0779,
+      "number": 3,
+      "title": "“青少年”相关"
+    },
+    {
+      "page": 85,
+      "top": 0.1229,
+      "number": 4,
+      "title": "“范围、领域”相关"
+    },
+    {
+      "page": 86,
+      "top": 0.4562,
+      "number": 5,
+      "title": "vers(e)相关"
+    },
+    {
+      "page": 89,
+      "top": 0.0767,
+      "number": 6,
+      "title": "“改革、发展”相关"
+    },
+    {
+      "page": 90,
+      "top": 0.6516,
+      "number": 7,
+      "title": "form相关"
+    },
+    {
+      "page": 92,
+      "top": 0.1215,
+      "number": 8,
+      "title": "sp相关（1）"
+    },
+    {
+      "page": 94,
+      "top": 0.1951,
+      "number": 9,
+      "title": "sp相关（2）"
+    },
+    {
+      "page": 96,
+      "top": 0.0815,
+      "number": 10,
+      "title": "“描述”相关"
+    },
+    {
+      "page": 97,
+      "top": 0.1954,
+      "number": 11,
+      "title": "script相关"
+    },
+    {
+      "page": 99,
+      "top": 0.1242,
+      "number": 12,
+      "title": "“欺骗”相关"
+    },
+    {
+      "page": 100,
+      "top": 0.0836,
+      "number": 13,
+      "title": "“控诉”相关"
+    },
+    {
+      "page": 101,
+      "top": 0.6612,
+      "number": 14,
+      "title": "“犯罪”相关"
+    },
+    {
+      "page": 103,
+      "top": 0.0783,
+      "number": 15,
+      "title": "“证据”相关"
+    },
+    {
+      "page": 104,
+      "top": 0.6815,
+      "number": 16,
+      "title": "“法律”相关"
+    },
+    {
+      "page": 106,
+      "top": 0.4467,
+      "number": 17,
+      "title": "“审判”相关"
+    },
+    {
+      "page": 108,
+      "top": 0.2826,
+      "number": 18,
+      "title": "ant相关"
+    },
+    {
+      "page": 110,
+      "top": 0.1767,
+      "number": 1,
+      "title": "certify相关"
+    },
+    {
+      "page": 111,
+      "top": 0.0758,
+      "number": 2,
+      "title": "ify结尾相关"
+    },
+    {
+      "page": 112,
+      "top": 0,
+      "number": 0,
+      "title": "原书续页 · 词群待核对"
+    },
+    {
+      "page": 113,
+      "top": 0.1249,
+      "number": 13,
+      "title": "“公司”相关"
+    },
+    {
+      "page": 115,
+      "top": 0.0809,
+      "number": 14,
+      "title": "“商贸”相关"
+    },
+    {
+      "page": 116,
+      "top": 0.3085,
+      "number": 15,
+      "title": "“竞争、合作”相关"
+    },
+    {
+      "page": 118,
+      "top": 0.078,
+      "number": 16,
+      "title": "subsidy相关"
+    },
+    {
+      "page": 121,
+      "top": 0.1783,
+      "number": 1,
+      "title": "“吃”相关"
+    },
+    {
+      "page": 122,
+      "top": 0.3137,
+      "number": 2,
+      "title": "“健康”相关"
+    },
+    {
+      "page": 124,
+      "top": 0.1927,
+      "number": 3,
+      "title": "ory/ery相关"
+    },
+    {
+      "page": 125,
+      "top": 0.0789,
+      "number": 4,
+      "title": "“地方”相关"
+    },
+    {
+      "page": 126,
+      "top": 0.3939,
+      "number": 5,
+      "title": "“财产”相关"
+    },
+    {
+      "page": 128,
+      "top": 0.7383,
+      "number": 6,
+      "title": "“资金、利益”相关"
+    },
+    {
+      "page": 130,
+      "top": 0.2819,
+      "number": 7,
+      "title": "“花费”相关"
+    },
+    {
+      "page": 132,
+      "top": 0.1206,
+      "number": 8,
+      "title": "gr相关"
+    },
+    {
+      "page": 133,
+      "top": 0.3663,
+      "number": 9,
+      "title": "“计算”相关"
+    },
+    {
+      "page": 135,
+      "top": 0.0783,
+      "number": 10,
+      "title": "trans相关"
+    },
+    {
+      "page": 136,
+      "top": 0.3796,
+      "number": 11,
+      "title": "sume相关"
+    },
+    {
+      "page": 138,
+      "top": 0.1215,
+      "number": 12,
+      "title": "sole相关"
+    },
+    {
+      "page": 139,
+      "top": 0.1536,
+      "number": 13,
+      "title": "sist相关"
+    },
+    {
+      "page": 140,
+      "top": 0.1892,
+      "number": 14,
+      "title": "stant相关"
+    },
+    {
+      "page": 141,
+      "top": 0.6796,
+      "number": 15,
+      "title": "over相关"
+    },
+    {
+      "page": 144,
+      "top": 0.1238,
+      "number": 16,
+      "title": "sign相关"
+    },
+    {
+      "page": 145,
+      "top": 0.6562,
+      "number": 17,
+      "title": "ab相关"
+    },
+    {
+      "page": 146,
+      "top": 0.3517,
+      "number": 18,
+      "title": "a相关"
+    },
+    {
+      "page": 149,
+      "top": 0.1792,
+      "number": 1,
+      "title": "“适应”相关"
+    },
+    {
+      "page": 150,
+      "top": 0.6232,
+      "number": 2,
+      "title": "“疲惫”相关"
+    },
+    {
+      "page": 153,
+      "top": 0.0764,
+      "number": 3,
+      "title": "tend相关"
+    },
+    {
+      "page": 155,
+      "top": 0.0826,
+      "number": 4,
+      "title": "opt相关"
+    },
+    {
+      "page": 157,
+      "top": 0.1242,
+      "number": 5,
+      "title": "quire相关"
+    },
+    {
+      "page": 158,
+      "top": 0.3013,
+      "number": 6,
+      "title": "“增强”相关"
+    },
+    {
+      "page": 160,
+      "top": 0.2178,
+      "number": 7,
+      "title": "“记忆”相关"
+    },
+    {
+      "page": 161,
+      "top": 0.765,
+      "number": 8,
+      "title": "serve相关"
+    },
+    {
+      "page": 163,
+      "top": 0.076,
+      "number": 9,
+      "title": "“伙伴”相关"
+    },
+    {
+      "page": 165,
+      "top": 0.1215,
+      "number": 10,
+      "title": "flap相关"
+    },
+    {
+      "page": 166,
+      "top": 0.0779,
+      "number": 11,
+      "title": "“看”相关"
+    },
+    {
+      "page": 167,
+      "top": 0.696,
+      "number": 12,
+      "title": "“动物”相关"
+    },
+    {
+      "page": 169,
+      "top": 0.5671,
+      "number": 13,
+      "title": "“完成、成就”相关"
+    },
+    {
+      "page": 172,
+      "top": 0.1201,
+      "number": 14,
+      "title": "“居住”相关"
+    },
+    {
+      "page": 174,
+      "top": 0.3675,
+      "number": 15,
+      "title": "“逻辑”相关"
+    },
+    {
+      "page": 176,
+      "top": 0.0784,
+      "number": 16,
+      "title": "“中止、延期”相关"
+    },
+    {
+      "page": 178,
+      "top": 0.1775,
+      "number": 1,
+      "title": "“褶皱”相关"
+    },
+    {
+      "page": 180,
+      "top": 0.1267,
+      "number": 2,
+      "title": "out相关"
+    },
+    {
+      "page": 182,
+      "top": 0.1653,
+      "number": 3,
+      "title": "vac相关"
+    },
+    {
+      "page": 183,
+      "top": 0.1976,
+      "number": 4,
+      "title": "“通勤、走”相关"
+    },
+    {
+      "page": 186,
+      "top": 0.1468,
+      "number": 5,
+      "title": "“供应、补充”相关"
+    },
+    {
+      "page": 187,
+      "top": 0.0765,
+      "number": 6,
+      "title": "dict相关"
+    },
+    {
+      "page": 188,
+      "top": 0.7697,
+      "number": 7,
+      "title": "re相关"
+    },
+    {
+      "page": 190,
+      "top": 0.0736,
+      "number": 8,
+      "title": "“新闻、出版”相关"
+    },
+    {
+      "page": 191,
+      "top": 0.308,
+      "number": 9,
+      "title": "press相关"
+    },
+    {
+      "page": 193,
+      "top": 0.1236,
+      "number": 10,
+      "title": "rim相关"
+    },
+    {
+      "page": 194,
+      "top": 0.4209,
+      "number": 11,
+      "title": "“偏见”相关"
+    },
+    {
+      "page": 195,
+      "top": 0.4927,
+      "number": 12,
+      "title": "描述“人”的词"
+    },
+    {
+      "page": 197,
+      "top": 0.0764,
+      "number": 13,
+      "title": "courage相关"
+    },
+    {
+      "page": 198,
+      "top": 0.0798,
+      "number": 14,
+      "title": "“优良品质”相关"
+    },
+    {
+      "page": 199,
+      "top": 0.5067,
+      "number": 15,
+      "title": "“苦难”相关"
+    },
+    {
+      "page": 201,
+      "top": 0.1288,
+      "number": 16,
+      "title": "“光”相关"
+    },
+    {
+      "page": 201,
+      "top": 0.8087,
+      "number": 17,
+      "title": "light相关"
+    },
+    {
+      "page": 203,
+      "top": 0.5446,
+      "number": 18,
+      "title": "ate相关"
+    },
+    {
+      "page": 204,
+      "top": 0.6242,
+      "number": 19,
+      "title": "de/di相关"
+    },
+    {
+      "page": 207,
+      "top": 0.1779,
+      "number": 1,
+      "title": "g相关"
+    },
+    {
+      "page": 209,
+      "top": 0.5233,
+      "number": 2,
+      "title": "“名声、名誉”相关"
+    },
+    {
+      "page": 211,
+      "top": 0.0829,
+      "number": 3,
+      "title": "“显露、掩盖”相关"
+    },
+    {
+      "page": 213,
+      "top": 0.0813,
+      "number": 4,
+      "title": "“时间”相关"
+    },
+    {
+      "page": 214,
+      "top": 0.1317,
+      "number": 5,
+      "title": "plex相关"
+    },
+    {
+      "page": 216,
+      "top": 0.3596,
+      "number": 6,
+      "title": "“授权”相关"
+    },
+    {
+      "page": 217,
+      "top": 0.0817,
+      "number": 7,
+      "title": "“实际上、完全的”相关"
+    },
+    {
+      "page": 218,
+      "top": 0.2025,
+      "number": 8,
+      "title": "“聪明的”相关"
+    },
+    {
+      "page": 219,
+      "top": 0.4904,
+      "number": 9,
+      "title": "“大的”相关"
+    },
+    {
+      "page": 221,
+      "top": 0.0861,
+      "number": 10,
+      "title": "fr相关"
+    },
+    {
+      "page": 222,
+      "top": 0.1775,
+      "number": 18,
+      "title": "sense/tense相关"
+    },
+    {
+      "page": 222,
+      "top": 0.7,
+      "number": 1,
+      "title": "原书续页 · 词群待核对"
+    },
+    {
+      "page": 222,
+      "top": 0.9283,
+      "number": 2,
+      "title": "dome相关"
+    },
+    {
+      "page": 223,
+      "top": 0.4724,
+      "number": 3,
+      "title": "rate相关"
+    },
+    {
+      "page": 224,
+      "top": 0.4481,
+      "number": 4,
+      "title": "“阻碍”相关"
+    },
+    {
+      "page": 227,
+      "top": 0.0778,
+      "number": 5,
+      "title": "“展示”相关"
+    },
+    {
+      "page": 228,
+      "top": 0.077,
+      "number": 6,
+      "title": "move相关"
+    },
+    {
+      "page": 230,
+      "top": 0.0787,
+      "number": 7,
+      "title": "oom相关"
+    },
+    {
+      "page": 231,
+      "top": 0.1244,
+      "number": 8,
+      "title": "lect相关"
+    },
+    {
+      "page": 232,
+      "top": 0.5155,
+      "number": 9,
+      "title": "battle相关"
+    },
+    {
+      "page": 233,
+      "top": 0.4715,
+      "number": 10,
+      "title": "part/past相关"
+    },
+    {
+      "page": 235,
+      "top": 0.5475,
+      "number": 11,
+      "title": "“装修”相关"
+    },
+    {
+      "page": 237,
+      "top": 0.2237,
+      "number": 12,
+      "title": "“攻击”相关"
+    },
+    {
+      "page": 241,
+      "top": 0.1191,
+      "number": 13,
+      "title": "pel相关"
+    },
+    {
+      "page": 242,
+      "top": 0.1507,
+      "number": 14,
+      "title": "“结合”相关"
+    },
+    {
+      "page": 243,
+      "top": 0.2986,
+      "number": 15,
+      "title": "integrate相关"
+    },
+    {
+      "page": 244,
+      "top": 0.5855,
+      "number": 16,
+      "title": "“招聘”相关"
+    },
+    {
+      "page": 246,
+      "top": 0.0761,
+      "number": 17,
+      "title": "explo相关"
+    },
+    {
+      "page": 247,
+      "top": 0.076,
+      "number": 18,
+      "title": "“设备”相关"
+    },
+    {
+      "page": 248,
+      "top": 0.3633,
+      "number": 19,
+      "title": "tract相关"
+    },
+    {
+      "page": 250,
+      "top": 0.1227,
+      "number": 20,
+      "title": "“活力”相关"
+    },
+    {
+      "page": 251,
+      "top": 0.0771,
+      "number": 21,
+      "title": "“热情”相关"
+    },
+    {
+      "page": 252,
+      "top": 0.8195,
+      "number": 22,
+      "title": "“日常”相关"
+    },
+    {
+      "page": 253,
+      "top": 0.8168,
+      "number": 23,
+      "title": "“册子”相关"
+    },
+    {
+      "page": 254,
+      "top": 0.4467,
+      "number": 24,
+      "title": "car相关"
+    },
+    {
+      "page": 255,
+      "top": 0.6466,
+      "number": 25,
+      "title": "bio相关"
+    },
+    {
+      "page": 256,
+      "top": 0.4233,
+      "number": 26,
+      "title": "way/voy相关"
+    },
+    {
+      "page": 257,
+      "top": 0.1328,
+      "number": 27,
+      "title": "“裁、缝”相关"
+    },
+    {
+      "page": 257,
+      "top": 0.8249,
+      "number": 28,
+      "title": "mat相关"
+    }
+  ]
+}
