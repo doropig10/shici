@@ -1,9 +1,9 @@
 {
- "versionCode": 39,
- "versionName": "1.0.38",
- "apk": "https://github.com/doropig10/shici/releases/download/v1.0.38/shici-1.0.38.apk",
- "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.38.apk",
- "sha256": "a2c6fc62dc04cd051dcffbafbc105129bb6706afc5fc652c82b076fd844bcd43",
+ "versionCode": 40,
+ "versionName": "1.0.39",
+ "apk": "https://github.com/doropig10/shici/releases/download/v1.0.39/shici-1.0.39.apk",
+ "apkFallback": "https://cdn.jsdelivr.net/gh/doropig10/shici@main/shici-1.0.39.apk",
+ "sha256": "bf41b5abe12e0e80a09ad492d844bfe63f32c3ed4fee46e4202598e8a8e1216a",
  "size": 435024,
- "notes": "词库显示记得/模糊/忘记记录，可撤销上一次或清除该词记录"
+ "notes": "词库筛选新增 记得/模糊/忘记 三个分类"
 }
